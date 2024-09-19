@@ -5,16 +5,27 @@ The Restaurant Booking System is a dynamic web application designed to simplify 
 Key Features:
 
 User Interface:
+
 Built with HTML, CSS, and JavaScript, providing an intuitive and responsive experience.
+
 Backend Functionality:
+
 Utilizes PHP for server-side processing and business logic.
+
 Database Management:
+
 Integrated MySQL for secure and efficient storage of user and reservation data.
+
 Reservation Management:
+
 Users can effortlessly make, modify, or cancel reservations.
+
 Email Notifications:
+
 Automated email alerts keep both customers and restaurant owners informed about reservation updates.
+
 Secure Authentication:
+
 Implemented OTP-based verification to enhance security during rescheduling and cancellation.
 
 Conclusion:
